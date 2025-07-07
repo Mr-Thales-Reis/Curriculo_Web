@@ -1,0 +1,25 @@
+.cabecalho{
+    background-color: #E87313;
+    height: 10em;
+    display: flex;
+    align-items: flex-start; /* alinha no topo */
+    justify-content: center; /* centraliza horizontalmente */
+    padding-top: 1em; /* só um espacinho do topo, se quiser */
+}
+
+.titulo_cabecalho{
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+    color: Black;
+    margin: 0.3em 0
+    
+}
+
+.subtitulo_cabecalho{
+   font-family: "Roboto Slab", serif;
+   font-optical-sizing: auto;
+   font-style: normal;
+}
+

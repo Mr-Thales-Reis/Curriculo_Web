@@ -1,25 +1,49 @@
 .cabecalho{
-    background-color: #E87313;
+    background-color: var(--background-cabeçalho);
     height: 10em;
     display: flex;
     align-items: flex-start; /* alinha no topo */
     justify-content: center; /* centraliza horizontalmente */
-    padding-top: 1em; /* só um espacinho do topo, se quiser */
+    padding-top: 1em; 
+    margin-bottom: -1em; 
 }
 
 .titulo_cabecalho{
-    font-family: "Anton", sans-serif;
+    font-family: var(--fonte-cabeçalho);
     font-weight: 400;
     font-style: normal;
     font-size: 3rem;
     color: Black;
-    margin: 0.3em 0
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0.5em 0;
+    text-decoration: underline;
     
 }
 
-.subtitulo_cabecalho{
-   font-family: "Roboto Slab", serif;
-   font-optical-sizing: auto;
-   font-style: normal;
+.subtitulo_cabecalho,
+.area_de_atuacao{
+    font-family: var(--fonte-subtitulo);
+    font-weight: 700;
+    font-style: italic;
+    color: #F1EDEC;
 }
+
+.subtitulo_cabecalho{
+    font-size: 1.5rem;
+    margin: 0.3em 0 0.3em 3.8em;
+}
+
+.area_de_atuacao{
+    font-size: 1.1rem;
+    margin: 0.3em 0 0.3em 10em;
+}
+
+.menu__navegação{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+}
+
 

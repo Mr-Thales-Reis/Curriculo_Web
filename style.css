@@ -1,7 +1,19 @@
 @import url(Styles/Cabecalho.css);
+@import url(Styles/Menu_navegacao.css);
 
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
+
+:root{
+    --fonte-cabeçalho: "Anton", sans-serif;
+    --fonte-subtitulo: "PT Serif", serif;
+    --fonte-padrão: 'Roboto', sans-serif;
+    --background-cabeçalho: #F28907;
+    --backgroud-menu_navegação: #A44412;
+}
+
+
 

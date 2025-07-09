@@ -13,3 +13,18 @@
     color: white;
     margin-top: 0.5em;
 }
+
+.menu__lista img {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.titulo_link{
+    text-decoration: none;
+    color: #d2d3c6;
+    font-family: var(--fonte-padrão);
+    font-size: 0.9em;
+}

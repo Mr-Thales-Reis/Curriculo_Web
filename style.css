@@ -12,7 +12,13 @@
     --fonte-subtitulo: "PT Serif", serif;
     --fonte-padrão: 'Roboto', sans-serif;
     --background-cabeçalho: #F28907;
-    --backgroud-menu_navegação: #A44412;
+    --backgroud-Boas_vindas: #A44412;
+    --background-body: #f0f0f0;
+}
+
+body{
+    font-family: var(--fonte-padrão);
+    background-color: var(--background-body);
 }
 
 

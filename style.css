@@ -1,5 +1,6 @@
 @import url(Styles/Cabecalho.css);
 @import url(Styles/Menu_navegacao.css);
+@import url(Styles/Descricao.css);
 
 *{
     padding: 0;

@@ -1,0 +1,22 @@
+.box_informações{
+  background-color: white;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.titulo_info{
+    font-family: var(--fonte-subtitulo);
+    text-decoration: underline;
+    padding: 0.8em 0.5em 0.5em 0.5em;
+}
+
+.lista_informações {
+  list-style-type: disc;     /* Ativa os pontinhos (marcadores) */
+  padding: 0.5em 0.5em 0.5em 2em; /* Aumenta o espaço à esquerda para o marcador aparecer */
+}
+
+.lista_informações li {
+  margin-bottom: 0.5em; /* Espaço entre os itens da lista */
+}

@@ -1,0 +1,27 @@
+.introdução{
+  display: flex;
+  justify-content: center; /* alinha no centro horizontal */
+  
+}
+
+.imagem_perfil{
+  width: 8em;        /* largura pequena */
+  height: 8em;       /* altura pequena */
+  object-fit: cover;   /* recorta e centraliza a imagem */
+  border-radius: 50%;  /* deixa a imagem redonda */
+  border: 2px solid var(--background-cabeçalho); 
+}
+
+.titulo_intodução{
+    font-family: var(--fonte-padrão);
+    font-size: large;
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.texto_introdutorio{
+    text-indent: 1em;
+    padding: 0 0.6em 1em 0.6em;
+}

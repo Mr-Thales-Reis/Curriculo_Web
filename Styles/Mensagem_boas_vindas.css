@@ -1,0 +1,8 @@
+.titulo_boas_vindas{
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-family: var(--fonte-subtitulo);
+    font-weight: 700;
+}

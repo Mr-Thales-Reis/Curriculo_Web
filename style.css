@@ -1,7 +1,9 @@
 @import url(Styles/Cabecalho.css);
-@import url(Styles/Menu_navegacao.css);
-@import url(Styles/Imagem.css);
-@import url(Styles/Experiencia.css);
+@import url(Styles/Mensagem_boas_vindas.css);
+@import url(Styles/introducao.css);
+@import url(Styles/Informacoes.css);
+@import url(Styles/footer.css);
+
 
 *{
     padding: 0;
@@ -13,8 +15,8 @@
     --fonte-cabeçalho: "Anton", sans-serif;
     --fonte-subtitulo: "PT Serif", serif;
     --fonte-padrão: 'Roboto', sans-serif;
-    --background-cabeçalho: #F28907;
-    --backgroud-Boas_vindas: #A44412;
+    --background-cabeçalho: #DE7423;
+    --backgroud-navegacao: #DEAA23;
     --background-body: #f0f0f0;
 }
 

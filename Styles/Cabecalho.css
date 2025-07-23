@@ -1,49 +1,36 @@
-.cabecalho{
+.cabecalho__texto{
     background-color: var(--background-cabeçalho);
-    height: 10em;
-    display: flex;
-    align-items: flex-start; /* alinha no topo */
-    justify-content: center; /* centraliza horizontalmente */
-    padding-top: 1em; 
-    margin-bottom: -1em; 
+    width: auto;
+    height: 8em;
+    display:block;
 }
 
 .titulo_cabecalho{
     font-family: var(--fonte-cabeçalho);
-    font-weight: 400;
-    font-style: normal;
-    font-size: 3rem;
-    color: Black;
-    display: flex;
-    justify-content: center;
-    margin: 0 0 0.5em 0;
-    text-decoration: underline;
-    
+    font-size: 2.5em;
+    color: #fff;
+    text-align: center;
+    padding-top: 0.5em;
 }
 
 .subtitulo_cabecalho,
 .area_de_atuacao{
     font-family: var(--fonte-subtitulo);
-    font-weight: 700;
-    font-style: italic;
-    color: #F1EDEC;
+    font-size: 1.3em;
+    color: #fff;
+    text-align: center;
+    padding-top: 0.4em;
 }
 
-.subtitulo_cabecalho{
-    font-size: 1.5rem;
-    margin: 0.3em 0 0.3em 3.8em;
-}
-
-.area_de_atuacao{
-    font-size: 1.1rem;
-    margin: 0.3em 0 0.3em 10em;
-}
-
-.menu__navegação{
+.menu_navegacao{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 1em;
+    gap: 4.1em; 
+    height: 2.5em;
+    background-color: var(--backgroud-navegacao);
+    font-family: var(--fonte-subtitulo);
+    
 }
 
 

@@ -15,4 +15,5 @@ main{
   text-align: center;
   padding: 1em;
   font-family: var(--fonte-subtitulo);
+  line-height: 1.3; 
 }

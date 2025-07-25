@@ -33,4 +33,12 @@
     
 }
 
+.seta{
+    width: 32px;      /* largura do ícone */
+    height: 32px;     /* altura do ícone */
+    object-fit: cover;/* mantém proporção e preenche o espaço */
+    margin: 0.5em 0 0.5em 0.5em;
+    background-color: var(--background-cabeçalho);
+}
+
 

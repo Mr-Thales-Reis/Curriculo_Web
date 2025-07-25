@@ -1,0 +1,46 @@
+.titulo_experiencia{
+    font-family: var(--fonte-subtitulo);
+    font-size: 1.4em;
+    font-weight: 400;
+    text-decoration: underline;
+    text-align: center;
+    margin: 1em 0 1em;
+}
+
+.Experiências{
+  background-color: white;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.tituli_IF{
+    font-family: var(--fonte-subtitulo);
+    font-weight: 700;
+    padding: 1em 0.5em 1.2em 0.5em;
+    text-align: center;
+}
+
+.lista_informacoes_IF{
+    font-family: var(--fonte-padrão);
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 0 0.5em 0.5em 0.5em;
+}
+
+
+.atribuições_if{
+    font-family: var(--fonte-padrão);
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 1em 0.5em 0 1em;
+    ;
+}
+
+.negrito{
+    font-weight: bold;
+    text-decoration: underline
+}
+
+

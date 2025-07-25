@@ -10,13 +10,14 @@
     font-family: var(--fonte-subtitulo);
     text-decoration: underline;
     padding: 0.8em 0.5em 0.5em 0.5em;
+    text-align: center;
 }
 
 .lista_informações {
-  list-style-type: disc;     /* Ativa os pontinhos (marcadores) */
-  padding: 0.5em 0.5em 0.5em 2em; /* Aumenta o espaço à esquerda para o marcador aparecer */
+  list-style-type: disc;   
+  padding: 0.5em 0.5em 0.5em 2em; 
 }
 
 .lista_informações li {
-  margin-bottom: 0.5em; /* Espaço entre os itens da lista */
+  margin-bottom: 0.5em; 
 }

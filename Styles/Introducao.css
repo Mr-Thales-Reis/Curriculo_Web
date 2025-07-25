@@ -1,14 +1,14 @@
 .introdução{
   display: flex;
-  justify-content: center; /* alinha no centro horizontal */
+  justify-content: center; 
   
 }
 
 .imagem_perfil{
-  width: 8em;        /* largura pequena */
-  height: 8em;       /* altura pequena */
-  object-fit: cover;   /* recorta e centraliza a imagem */
-  border-radius: 50%;  /* deixa a imagem redonda */
+  width: 8em;      
+  height: 8em;       
+  object-fit: cover;   
+  border-radius: 50%;  
   border: 2px solid var(--background-cabeçalho); 
 }
 
@@ -19,9 +19,13 @@
     text-align: center;
     padding-top: 1em;
     padding-bottom: 1em;
+    
 }
 
 .texto_introdutorio{
-    text-indent: 1em;
-    padding: 0 0.6em 1em 0.6em;
+  font-family: var(--fonte-subtitulo);
+  text-align: center;    
+  padding: 0 0.6em 1em 0.6em;
+  word-spacing: 0.1em;
+  line-height: 1.3; 
 }

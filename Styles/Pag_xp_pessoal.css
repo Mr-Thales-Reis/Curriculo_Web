@@ -1,0 +1,24 @@
+.experiencia_pessoal{
+  background-color: white;
+  margin-left: 0.2em;
+  margin-right: 0.8em;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.titulo_area{
+    font-family: var(--fonte-subtitulo);
+    color: white;
+    font-weight: 700;
+    padding: 1em 0.5em 1.2em 0.5em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2em;
+    background-color: var(--background-cabeçalho);
+}
+
+.projetos_front{
+  padding: 1em 0.8em 1em 0.8em;
+  line-height: 1.8;
+  font-family: var(--fonte-padrão);
+}

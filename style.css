@@ -5,6 +5,7 @@
 @import url(Styles/footer.css);
 @import url(Styles/Pag_experiencias.css);
 @import url(Styles/Pag_xp_pessoal.css.css);
+@import url(Styles/objetivoProfissional.css);
 
 
 *{
@@ -19,6 +20,8 @@
     --fonte-padrão: 'Roboto', sans-serif;
     --background-cabeçalho: #DE7423;
     --backgroud-navegacao: #DEAA23;
+    --color-alpha: #FF3800;
+    --color-beta: #EFECC3; 
     --background-body: #f0f0f0;
 }
 

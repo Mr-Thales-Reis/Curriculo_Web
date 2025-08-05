@@ -1,0 +1,24 @@
+.conteudo{
+background-color: white;
+margin: 0 1em 1em 1em;
+border-radius: 3%;
+box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 1em;
+    font-family: var(--fonte-cabeçalho);
+    font-weight: 700;
+    background-color: var(--color-beta);
+    height: 3em;
+    line-height: 3em;
+}
+
+.descricao_de_xp_obj{
+    font-family: var(--fonte-padrão);
+    font-weight: 400;
+    font-size: auto;
+    line-height: 1.5;
+    margin: 1em;
+}

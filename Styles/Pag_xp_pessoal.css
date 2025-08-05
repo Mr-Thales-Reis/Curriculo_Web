@@ -17,8 +17,22 @@
     background-color: var(--background-cabeçalho);
 }
 
+.nome_projeto{
+  text-align: center;
+  font-family: var(--fonte-padrão);
+  font-weight: 700;
+  color: white;
+  margin-top: 1em;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  background-color: var(--backgroud-navegacao);
+}
+
 .projetos_front{
   padding: 1em 0.8em 1em 0.8em;
   line-height: 1.8;
   font-family: var(--fonte-padrão);
+}
+
+.rodape{
+  margin-top: 1em;
 }

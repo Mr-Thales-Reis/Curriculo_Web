@@ -13,6 +13,7 @@ main{
   background-color: #333;
   color: white;
   text-align: center;
+  margin-top: 1em;
   padding: 1em;
   font-family: var(--fonte-subtitulo);
   line-height: 1.3; 

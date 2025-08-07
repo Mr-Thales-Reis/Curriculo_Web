@@ -1,0 +1,12 @@
+.bacharelado,
+.tecnico{
+    padding: 0.8em 0 0 0.8em;
+}
+
+.ingles{
+    padding: 0.8em 0 1em 0.8em;
+}
+
+.formacao{
+   font-family: var(--fonte-padrao);
+}

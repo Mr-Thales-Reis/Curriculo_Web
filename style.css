@@ -6,6 +6,7 @@
 @import url(Styles/Pag_experiencias.css);
 @import url(Styles/Pag_xp_pessoal.css.css);
 @import url(Styles/objetivoProfissional.css);
+@import url(Styles/formacao.css);
 
 
 *{
@@ -35,7 +36,7 @@ strong{
 }
 
 a{
-    text-decoration: none;
+    text-decoration: underline;
     color: inherit;
 }
 

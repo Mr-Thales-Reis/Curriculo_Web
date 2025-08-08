@@ -1,0 +1,22 @@
+.conteudo_contato{
+    background-color: var(--color-beta);
+    height: 40vh;
+    width: 40vh;
+    margin: auto;
+    margin-top: 25%;
+    border-radius: 15%;
+}
+
+.sub_titulo{
+    font-family: var(--fonte-subtitulo);
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1em;
+}
+
+.info_contato{
+    font-size: 1.2rem;
+    text-align: center;
+    padding: 0.5em;
+    line-height: 2rem;
+}

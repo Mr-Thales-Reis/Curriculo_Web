@@ -1,0 +1,14 @@
+.sub-titulo{
+    text-align: center;
+    margin: 0.5em;
+    font-family: var(--fonte-cabeçalho);
+    font-weight: 400;
+    font-size: 1.1em;
+}
+
+.cursos{
+    font-family: var(--fonte-padrão);
+    font-weight: 400;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    line-height: 1.9;
+}

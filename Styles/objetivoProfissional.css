@@ -8,7 +8,7 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 .titulo{
     text-align: center;
     margin-top: 1em;
-    font-family: var(--fonte-cabeçalho);
+    font-family: var(--fonte-padrão);
     font-weight: 700;
     background-color: var(--color-beta);
     height: 3em;

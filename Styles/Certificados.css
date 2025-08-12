@@ -1,7 +1,7 @@
 .sub-titulo{
     text-align: center;
     margin: 0.5em;
-    font-family: var(--fonte-cabeçalho);
+    font-family: var(--fonte-padrão);
     font-weight: 400;
     font-size: 1.1em;
 }
@@ -12,3 +12,22 @@
     margin: 0.5em 0.5em 0.5em 0.5em;
     line-height: 1.9;
 }
+.certificados{
+    background-color: white;
+    margin: 0 1em 1em 1em;
+    border-radius: 3%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+@media (min-width: 1024px) {
+
+.certificados{
+  background-color: white;
+  margin-left: 25em;
+  margin-right: 25em;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+ }
+
+}
+

@@ -21,3 +21,34 @@
 .lista_informações li {
   margin-bottom: 0.5em; 
 }
+
+@media (min-width: 1024px) {
+  .box_informações {
+    max-width: 500px;     /* limita a largura */
+    margin: auto;     /* centraliza na tela */
+    padding: 0.2em;       /* mais respiro interno */
+  }
+
+  .titulo_info {
+    font-size: 1.2em;       /* título maior */
+    padding: 1em;
+  }
+
+  .lista_informações {
+    font-size: 1.1em;     /* texto levemente maior */
+    padding: 1em 2em;
+    text-align: center;
+  }
+
+  .botao{
+  padding: 1em ;
+  background-color: var(--backgroud-navegacao);
+  color: rgb(255, 255, 255);
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    
+  }
+
+}

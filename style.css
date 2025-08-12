@@ -9,6 +9,7 @@
 @import url(Styles/formacao.css);
 @import url(Styles/Contato.css);
 
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto&display=swap');
 
 *{
     padding: 0;
@@ -25,6 +26,7 @@
     --color-alpha: #FF3800;
     --color-beta: #EFECC3; 
     --background-body: #f0f0f0;
+    --color-padrão: rgb(33, 99, 77);
 }
 
 body{

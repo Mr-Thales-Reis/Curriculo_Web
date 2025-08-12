@@ -10,3 +10,15 @@
 .formacao{
    font-family: var(--fonte-padrao);
 }
+
+@media (min-width: 1024px) {
+
+.conteudo{
+  background-color: white;
+  margin-left: 25em;
+  margin-right: 25em;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+ }
+
+}

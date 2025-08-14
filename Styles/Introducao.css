@@ -4,6 +4,7 @@
   
 }
 
+
 .imagem_perfil {
   width: 150px;      
   height: 150px;     
@@ -11,7 +12,7 @@
   border-radius: 50%;
   border: 2px solid var(--background-cabeçalho);
   display: block;
-  margin: 0 auto;
+  margin: 0  auto;
 }
 
 .titulo_intodução{
@@ -31,3 +32,4 @@
   word-spacing: 0.1em;
   line-height: 1.3; 
 }
+

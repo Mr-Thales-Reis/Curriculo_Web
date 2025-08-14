@@ -4,12 +4,14 @@
   
 }
 
-.imagem_perfil{
-  width: 8em;      
-  height: 8em;       
-  object-fit: cover;   
-  border-radius: 50%;  
-  border: 2px solid var(--background-cabeçalho); 
+.imagem_perfil {
+  width: 150px;      
+  height: 150px;     
+  object-fit: cover; 
+  border-radius: 50%;
+  border: 2px solid var(--background-cabeçalho);
+  display: block;
+  margin: 0 auto;
 }
 
 .titulo_intodução{

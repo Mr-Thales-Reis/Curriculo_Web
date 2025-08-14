@@ -34,6 +34,12 @@ body{
     background-color: var(--background-body);
 }
 
+img {
+    max-width: 200px; /* ou o tamanho desejado */
+    height: auto;
+    display: block;
+}
+
 strong{
     font-weight: bold;
 }

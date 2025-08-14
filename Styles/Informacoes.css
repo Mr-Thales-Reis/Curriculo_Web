@@ -26,6 +26,7 @@
   .box_informações {
     max-width: 500px;     /* limita a largura */
     margin: auto;     /* centraliza na tela */
+    margin-top: auto;
     padding: 0.2em;       /* mais respiro interno */
   }
 

@@ -1,6 +1,6 @@
 @import url(Styles/Cabecalho.css);
 @import url(Styles/Mensagem_boas_vindas.css);
-@import url(Styles/introducao.css);
+@import url(Styles/Introducao.css);
 @import url(Styles/Informacoes.css);
 @import url(Styles/footer.css);
 @import url(Styles/Pag_experiencias.css);
@@ -34,11 +34,6 @@ body{
     background-color: var(--background-body);
 }
 
-img {
-    max-width: 200px; /* ou o tamanho desejado */
-    height: auto;
-    display: block;
-}
 
 strong{
     font-weight: bold;
